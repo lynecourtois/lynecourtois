@@ -10,7 +10,7 @@ Ayant fait l’IEF (Instruction En Famille) depuis toute petite, j’ai dévelop
 
 J’ai aussi eu la chance de travailler en collaboration avec une équipe Américaine pour un Fan Film d’environ 1h ce qui m’a permis de mettre en pratique et d’améliorer ma façon de travailler pour permettre un meilleur rendement. Durant ce projet, j’ai aussi appris à créer des objets et des environnements 3D et à rigger et animer des humanoïdes, le tout en apprenant par moi-même.
 
-## 🛠 Qu'est ce que je fais : 
+## 🛠 Ce que je sais faire : 
 
 J’apporte alors mon savoir dans le domaine du Web et de la 3D pour créer le projet qui correspond au profil de mes clients. Impliquée dans le projet, je cherche à utiliser toutes mes capacités pour que les intérêts du client soient servis au mieux.
 
