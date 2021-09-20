@@ -2,9 +2,9 @@
 
 ## 🙋‍♀️ Qui je suis : 
 
-Développeuse Web à la recherche d’un emploi en distanciel, je suis aussi Artiste 3D. Depuis toujours intéressée et attirée par la communication, j’aime créer, manipuler de nouvelles technologies et apprendre.
+Développeur Web à la recherche d’un emploi en distanciel, je suis aussi Artiste 3D. Depuis toujours intéressée et attirée par la communication, j’aime créer, manipuler de nouvelles technologies et apprendre.
 
-## 📚 Mon parcour :
+## 📚 Mon parcours :
 
 Ayant fait l’IEF (Instruction En Famille) depuis toute petite, j’ai développé un sens du travail et de l’autonomie et je suis capable de trouver des solutions à un problème donné. J’ai pu aussi, en parallèle de mon instruction, apprendre les bases du Web : le CSS et le HTML. Au fil des années, j’ai augmenté mon savoir et j’ai ainsi pu obtenir mon diplôme « Développeur Web » niveau bac+2 à 18 ans.
 
@@ -12,7 +12,7 @@ J’ai aussi eu la chance de travailler en collaboration avec une équipe Améri
 
 ## 🛠 Qu'est ce que je fais : 
 
-J’apporte alors mon savoir dans le domaine du Web et de la 3D pour créer le projet qui correspond au profil de mes clients que ce soit 3D ou Web. Impliqué dans le projet, je cherche à utiliser toutes mes capacités pour que les intérêts du client soit servie au mieux.
+J’apporte alors mon savoir dans le domaine du Web et de la 3D pour créer le projet qui correspond au profil de mes clients. Impliquée dans le projet, je cherche à utiliser toutes mes capacités pour que les intérêts du client soit servie au mieux.
 
 Grâce à mon parcours atypique qui a développé mes capacités, je suis donc capable de :
 
@@ -28,7 +28,6 @@ Grâce à mon parcours atypique qui a développé mes capacités, je suis donc c
     • Éclairer et Rendre une scène 3D ✅
 
 ### Développement Web 👩‍💻 : 
-
     • Créer un site web à partir d’un maquette ✅
     • Optimiser un site web existant en accord avec les principes OWASP ✅
     • Créer une application sécurisé avec Express ✅
