@@ -2,7 +2,7 @@
 
 ## 🙋‍♀️ Qui je suis : 
 
-Développeur Web à la recherche d’un emploi en distanciel, je suis aussi Artiste 3D. Depuis toujours intéressée et attirée par la communication, j’aime créer, manipuler de nouvelles technologies et apprendre.
+Développeur Web Freelance en distanciel, je suis aussi Artiste 3D. Depuis toujours intéressée et attirée par la communication, j’aime créer, manipuler de nouvelles technologies et apprendre.
 
 ## 📚 Mon parcours :
 
