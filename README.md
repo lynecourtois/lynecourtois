@@ -39,9 +39,7 @@ Grâce à mon parcours atypique, j’ai pu développer les capacités suivantes 
 Pour une collaboration ou autres:
 
     • Messagerie LinkedIn : https://www.linkedin.com/in/lyne-courtois/
-    • Email : lynecourtois@hotmail.com
-    • Skype : Lyne Courtois
-    • Zoom :  lynecourtois@hotmail.com
+    • Email : lynecourtois@free.fr
 
 <!--
 **grazeillamaury/grazeillamaury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
